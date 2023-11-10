@@ -6,6 +6,13 @@
 <div align="left">
 
 <details>
+    <summary>🌙 Contact</summary>
+    <p></p>
+    &nbsp;&nbsp;&nbsp;
+    <!-- Contact -->
+</details>
+
+<details>
   <summary>🌙 Solved.ac</summary>
   <p></p>
     &nbsp;&nbsp;&nbsp;
@@ -30,7 +37,13 @@
   <p></p>
     &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ikellllllll/AngelicBusterBotDocuments">
-    <img src="https://img.shields.io/badge/AngelicBusterBot-FFC0CB?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AngelicBusterBot-FFC0CB?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+    <a href="https://ikellllllll.github.io/GeminiHBDGame_High/">
+    <img src="https://img.shields.io/badge/GeminiTetris-FEAE68?style=for-the-badge&logo=Unity&logoColor=white" />
+  </a>
+    <a href="https://x.com/Jack_and_Onyu/status/1676169982961414144?s=20">
+    <img src="https://img.shields.io/badge/OnyuRun-7EB365?style=for-the-badge&logo=Unity&logoColor=white" />
   </a>
 </details>
 
@@ -38,13 +51,48 @@
 <details>
     <summary>🌙 Languages</summary>
     <p></p>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
     <!-- Languages -->
 </details>
 
 <details>
     <summary>🌙 Frameworks</summary>
     <p></p>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
+    <img src="https://img.shields.io/badge/.Net-512BD4?style=for-the-badge&logo=dotNet&logoColor=white">
     <!-- FrameWorks -->
+</details>
+
+<details>
+    <summary>🌙 Library</summary>
+    <p></p>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JDA-742DC4?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=MUI&logoColor=white">
+    <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+    <!-- Libraries -->
+</details>
+
+
+<details>
+    <summary>🌙 Etc.</summary>
+    <p></p>
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    <img src="https://img.shields.io/badge/SonarQube-4E98CD?style=for-the-badge&logo=SonarQube&logoColor=white">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=Unity&logoColor=white">
+    <!-- Etc -->
 </details>
 
 </div>
