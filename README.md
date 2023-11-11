@@ -36,7 +36,7 @@
   <summary>🌙 Projects</summary>
   <p></p>
     &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ikellllllll/AngelicBusterBotDocuments">
+  <a href="https://discord.com/application-directory/1000054332244377711">
     <img src="https://img.shields.io/badge/AngelicBusterBot-FFC0CB?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
     <a href="https://ikellllllll.github.io/GeminiHBDGame_High/">
