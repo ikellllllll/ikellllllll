@@ -9,6 +9,12 @@
 <p></p>
 &nbsp;&nbsp;&nbsp;
 <!-- Contact -->
+<a href="mailto:shkm1420@naver.com">
+    <img src="https://img.shields.io/badge/Mail-20232A?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/396209294028177430">
+    <img src="https://img.shields.io/badge/Discord-20232A?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 ## 🌙 Solved.ac
 <p></p>
@@ -30,6 +36,9 @@
 &nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/application-directory/1000054332244377711">
     <img src="https://img.shields.io/badge/AngelicBusterBot-FFC0CB?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://abbot.kr/">
+    <img src="https://img.shields.io/badge/AngelicBusterBot_Web-FFC0CB?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://ikellllllll.github.io/GeminiHBDGame_High/">
     <img src="https://img.shields.io/badge/GeminiTetris-FEAE68?style=for-the-badge&logo=Unity&logoColor=white" />
